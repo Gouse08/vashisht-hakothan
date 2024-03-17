@@ -20,6 +20,8 @@ The details of employee could manage via the database (MySql).
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="" alt="Image 1" style="width: 30%; margin: 5px;">
+    <img width="781" alt="Screenshot 2024-03-17 094625" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/35af3327-e267-4ebd-816f-7933ae8655a6">
+
     <img src="https://drive.google.com/file/d/1KCnPeQdq8BukKmQonyLjRmV0XQXVF_HC/view?usp=sharing" alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
