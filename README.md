@@ -20,13 +20,10 @@ The details of employee could manage via the database (MySql).
 
 <div style="display: flex; flex-wrap: wrap;">
     
-    <img width="781" alt="Screenshot 2024-03-17 094625" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/35af3327-e267-4ebd-816f-7933ae8655a6" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img width="934" alt="Screenshot 2024-03-17 101311" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/51f82e0e-1035-4508-a101-9b984d922241" alt="Image 2" style="width: 30%; margin: 5px;">
-    <img width="960" alt="Screenshot 2024-03-17 101402" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/324e89e0-003c-45eb-8e6c-c7eebd3b2df3" alt="Image 3" style="width: 30%; margin: 5px;">
-    <img width="986" alt="Screenshot 2024-03-17 101441" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/3dd88220-6cb6-4e0b-a6f6-7dfc00c7694c" alt="Image 4" style="width: 30%; margin: 5px;">
-
-
-
+<img width="781" alt="Screenshot 2024-03-17 094625" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/35af3327-e267-4ebd-816f-7933ae8655a6" alt="Image 1" style="width: 30%; margin: 5px;">
+<img width="934" alt="Screenshot 2024-03-17 101311" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/51f82e0e-1035-4508-a101-9b984d922241" alt="Image 2" style="width: 40%; margin: 5px;">
+<img width="960" alt="Screenshot 2024-03-17 101402" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/324e89e0-003c-45eb-8e6c-c7eebd3b2df3" alt="Image 3" style="width: 30%; margin: 5px;">
+<img width="986" alt="Screenshot 2024-03-17 101441" src="https://github.com/Gouse08/vashisht-hakothan/assets/159637811/3b92895a-f327-4447-abc8-debf43b7b244" style="width: 30%;">
 
        
 </div>
@@ -38,15 +35,13 @@ The details of employee could manage via the database (MySql).
   
 
 ## Technical implemntaion 
-mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
-- use bullets to explain
-- be consise and specific
-- explain with images and flowcharts
-- 
-![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
+##Approch
+- We Creating the API's to the frontend by using the JAVA. 
+- For testing API's we used the POSTMAN testing tool.
+- User Sends request to the server And then server responds according to the cross origin Requests.
 
 ## Techstacks used 
-`Spring boot` , `Angular 17` , `MySql`
+`Spring boot` , `Angular 17` , `MySql`,`PostMan API testing`
 
 ## How to run locally  
 - step 1 : clone the repo
@@ -66,7 +61,7 @@ mention the approach and how you have solved the problem with the technology , u
 
 
 # What's next ?
-tell the future plan that you have for the project , tell the updates that you would wish to bring
+We are going to implement the enhanced application by adding some robust functionalities to our application. 
 
 ## Declaration
 We confirm that the project showcased here was either developed entirely during the hackathon or underwent significant updates within the hackathon timeframe. We understand that if any plagiarism from online sources is detected, our project will be disqualified, and our participation in the hackathon will be revoked.
