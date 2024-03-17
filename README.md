@@ -14,13 +14,13 @@ The details of employee could manage via the database (MySql).
 | Name    | Email           |
 |---------|-----------------|
 | Sk. MD Gouse | 99210042156@klu.ac.in |
-| T . Venkateswara Reddy| 99210042084@klu.ac.in|
-| S . Teja | 99210042227@klu.ac.in |
+| T. Venkateswara Reddy| 99210042084@klu.ac.in|
+| S. Teja | 99210042227@klu.ac.in |
 | R.Eswar | 99210042207@klu.ac.in |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="" alt="Image 1" style="width: 30%; margin: 5px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSECH9uhvdGq0EP6QqG8lzAyjz1F-6V5RyMZrjBGmoIbP5diPgG53mWePJ9RlWVbJuVWCo&usqp=CAU" alt="Image 2" style="width: 30%; margin: 5px;">
+    <img src="https://drive.google.com/file/d/1KCnPeQdq8BukKmQonyLjRmV0XQXVF_HC/view?usp=sharing" alt="Image 2" style="width: 30%; margin: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEwduQ50DEm_tr94tfGWHqAYzzvjb_5oS6ULmejCN2pBlolGfTv8wTwaa64fnt1GThiDc" alt="Image 3" style="width: 30%; margin: 5px;">
        <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
@@ -30,7 +30,8 @@ The details of employee could manage via the database (MySql).
 ## Problem statement 
   To Manage the Employee details of a company.
 ## About the project
-  We used spring Boot, Angular
+  We used ```Spring Boot``` for backend and ```Angular 17``` for ```frontend``` And MySql database. We got lot of knowledge by participating in this golden Vashisht hackathon. Like how the software is being devloped by using the team and gaining more communication skills while doing this project.
+  
 
 ## Technical implemntaion 
 mention the approach and how you have solved the problem with the technology , utilize multiple flowcharts to explain your solutions and approach
